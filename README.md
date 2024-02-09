@@ -54,4 +54,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Igor Clemencov](https://github.com/clemencov/)
+See [LICENSE](LICENSE)
