@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-# TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for xcbeautify.
 GH_REPO="https://github.com/cpisciotta/xcbeautify"
 TOOL_NAME="xcbeautify"
 TOOL_TEST="xcbeautify --version"
