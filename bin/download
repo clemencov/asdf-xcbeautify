@@ -18,5 +18,5 @@ download_release "$ASDF_INSTALL_VERSION" "$release_file"
 # Extract contents of zip file into the download directory
 unzip "$release_file" -d "$ASDF_DOWNLOAD_PATH" || fail "Could not extract $release_file"
 
-# Remove the tar.gz file since we don't need to keep it
+# Remove the zip file since we don't need to keep it
 rm "$release_file"
